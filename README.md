@@ -2,7 +2,7 @@
 I have built a movie-app by using React
 
 
-tuncayaricanreactmovieapp.netlify.app
+https://tuncayaricanreactmovieapp.netlify.app/
 
 
 
